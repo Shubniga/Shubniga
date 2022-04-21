@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shubniga
 - 👀 I’m interested in learning automation
-- 🌱 I’m currently learning Selenium using BDD Framework & will explore other frameworks too soon
-- 💞️ I’m looking to grow my KnowledgeBase on automation
+- 🌱 I’m looking to grow my KnowledgeBase on automation
 - 📫 How to reach me nigam.shubham7@gmail.com
 
 <!---
